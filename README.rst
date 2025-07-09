@@ -12,4 +12,4 @@ When cloning this repository for local use, you *must* use
 to clone this project as well as its submodule dependencies.
 
 
-Right now, the simulation data is tracked within another repository owned by our repo: https://github.com/PSU-CS-Wildfire-Capstone-Sp-S-25/wrfxweb-simulations. To make changes to the data, work within a copy of that repository and then update your copy of this repo's submodule whenever you push changes to the sim data.
+Right now, the simulation data is tracked within another repository owned by our org: https://github.com/PSU-CS-Wildfire-Capstone-Sp-S-25/wrfxweb-simulations. To make changes to the data, work within a copy of that repository and then update your copy of this repo's submodule whenever you push changes to the sim data.
