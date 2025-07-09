@@ -6,7 +6,8 @@ A visualization server for the outputs of fire-weather model wrf-sfire as genera
 Submodules
 **********
 
-When cloning this repository for local use, you *must* use::
+When cloning this repository for local use, you *must* use
+::
   git clone --recursive <project url>
 to clone this project as well as its submodule dependencies.
 
