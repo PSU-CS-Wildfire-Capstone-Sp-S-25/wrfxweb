@@ -1090,8 +1090,8 @@ html, body {
     border: 1px solid #ccc;
     border-radius: 4px;
     box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-    min-width: 150px;
-    min-height: 150px;
+    min-width: 300px;
+    min-height: 300px;
     max-width: 20vw;
     max-height: 20vh;
     overflow: auto;
@@ -1121,8 +1121,8 @@ html, body {
 }
 
 /* Ensure media content is responsive */
-.media-content img,
-.media-content video {
+#media-content img,
+#media-content video {
     max-width: 100%;
     height: auto;
 }
