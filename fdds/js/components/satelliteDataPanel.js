@@ -45,13 +45,17 @@ export class satelliteDataPanel extends HTMLElement {
             this.hide();
         };
 
-        //Idea for swapping media based on current simulation?
-        mediaSelect.addEventListener('change', (event) =>{
-            this.currentMediaIndex = Number(event.target.value);
-            this.updateImage();
+        if (mediaSelect) {
+            L.DomEvent.disableClickPropagation(mediaSelect);
+            L.DomEvent.disableScrollPropagation(mediaSelect);
 
-        });
-
+            //watching for a change, we want to swap to the correct image.
+            mediaSelect.addEventListener('change', (event) => {
+                this.currentMediaIndex = Number(event.target.value);
+                this.updateImage();
+            });
+        }
+        
         /*
         const placeholder_media = `
         <img class="satellite-img" src="https://placecats.com/150/150" alt="Satellite Image"/>
