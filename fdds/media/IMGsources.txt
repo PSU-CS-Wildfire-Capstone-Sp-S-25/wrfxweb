@@ -1,0 +1,3 @@
+bootlegBorder - https://www.arcgis.com/home/item.html?id=41c248d3113344d78a680ab02f3e98ce
+mauiBorder - https://ag.hawaii.gov/wp-content/uploads/2024/04/FSRI-Fire-Progression-Map.pdf
+palisadesBorder - https://hub-calfire-forestry.hub.arcgis.com/datasets/wfigs-2025-wildfire-perimeters/explore?location=34.079838%2C-118.579329%2C12.34

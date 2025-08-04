@@ -80,6 +80,21 @@ export class CatalogItem extends HTMLElement {
 
         document.querySelector('#simulation-flags').classList.remove('hidden');
         getSimulation(path);
+
+
+
+        //We are sending an event to the other components.
+        const event = new CustomEvent('simulation-selected',{
+            bubbles: true,
+            composed: true,
+            detail: {
+                jobId: entryID,
+                description: description,
+                // Pass the media data
+                media: this.catEntry.media || []
+            }
+        });
+        this.dispatchEvent(event);
     }
 }
 
