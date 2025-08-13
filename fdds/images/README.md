@@ -71,6 +71,29 @@ Absolute Tab, set time to January 7, 2025 - January 31, 2025
 Collection NGFS, Fire Detection - WFIGS
 Can Adjust the time to make it slower or faster
 
+Cram Fire -
+
+https://re-ngfs.ssec.wisc.edu/
+This one takes setup, but also shows spread. Make sure you zoom into region, Central Oregon
+Absolute Tab, set time to July 13, 2025 - July 22, 2025
+Collection NGFS, Fire Detection - WFIGS
+Can Adjust the time to make it slower or faster
+
+https://osfminfo.org/crews-making-progress-on-cram-fire-mapped-at-95769-acres/
+Oregon State Fire Marshal Incident Blog, July 19.
+Has a decent, yet small image
+
+https://centraloregonfire.org/2025/07/23/cram-fire-morning-update-wednesday-july-23-2025/
+Central Oregon Fire Info, July 23rd
+77% Containment
+
+https://kcby.com/news/local/cram-fire-grows-to-94293-acres-as-windy-conditions-hamper-firefighting-efforts-jefferson-county-wasco-northwest-interagency-coordination-madras-sheriffs-office
+Local News KCBY 11, July 18th
+Uncontained at the time?
+
+https://inciweb.wildfire.gov/incident-information/orprd-cram-fire
+Might have to back out and then zoom into the area to get a better, full picture. But also has resources.
+
 General 2023 Canada Fires -
 
 The best I can do here is the wikipedia, The have map data… Maybe we can visualize it ourselves?
