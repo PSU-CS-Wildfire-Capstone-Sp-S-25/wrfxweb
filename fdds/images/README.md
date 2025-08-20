@@ -1,102 +1,57 @@
-General Info -
+**General Info** -
 
-https://gis-fema.hub.arcgis.com/pages/wildfires
-FEMA - Has the most recent American fire perimeters. Viewing space is less than desired.
+Federal Emergency Management Agency. "Wildfires." _ArcGIS Hub_, https://gis-fema.hub.arcgis.com/pages/wildfires.
 
-https://burnseverity.cr.usgs.gov/baer/
-BAER - Seems to have some burn area data, though we have to request them and map them ourselves, see the 2021 Bootleg Fire Perimeter & Burn Severity.
+"Burned Area Emergency Response (BAER)." _U.S. Geological Survey_, https://burnseverity.cr.usgs.gov/baer/.
 
-Bootleg Fire -
+"RealEarth NGFS Fire Detection Viewer." _University of Wisconsin–Madison_, https://re-ngfs.ssec.wisc.edu/.
 
-https://klamathalerts.com/2021/08/07/klamath-county-fire-update-for-august-7th-2021-bootleg-fire-at-87-percent-containment-new-fires-are-now-lined/
-News Article from Klamath Alerts - Discusses fires at 87% containment, with fires being lined.
+**Bootleg Fire** -
 
-https://www.arcgis.com/home/item.html?id=41c248d3113344d78a680ab02f3e98ce
-2021 Bootleg Fire Perimeter & Burn Severity - Data from US Forest Service and Burned Area Emergency Response, but link seems to be dead. Owner(?) of this visualization is Matthew Mayfield. UPDATE: BAER still exists! https://burnseverity.cr.usgs.gov/baer/ This is where the data is from, I think.
+"Bootleg Fire, Once the Largest in the Nation, Is Now Fully Contained." _The Oregonian_, 13 Aug. 2021, https://www.oregonlive.com/pacific-northwest-news/2021/08/bootleg-fire-once-the-largest-in-the-nation-is-now-fully-contained.html.
 
-https://www.oregonlive.com/pacific-northwest-news/2021/08/bootleg-fire-once-the-largest-in-the-nation-is-now-fully-contained.html
-Article from The Oregonian - Discusses fire at full containment, old image from InciWeb Incident Information System (No longer on that site due to time passing)
+Friesen, Mark. "See How Massive Bootleg Fire Grew into Nation’s Largest Day by Day." _The Oregonian_, July 2021, https://www.oregonlive.com/data/2021/07/see-how-massive-bootleg-fire-grew-into-nations-largest-day-by-day.html.
 
-https://thatoregonlife.com/2021/07/bootleg-perimeter-now-200-miles-281-thousand-acres-burned/
-Bootleg Fire Perimeter - Not full fire, before it combined with the log fire, I think. From That Oregon Life.
+"Klamath County Fire Update for August 7th, 2021: Bootleg Fire at 87 Percent Containment." _Klamath Alerts_, 7 Aug. 2021, https://klamathalerts.com/2021/08/07/klamath-county-fire-update-for-august-7th-2021-bootleg-fire-at-87-percent-containment-new-fires-are-now-lined/.
 
-https://hub.oregonexplorer.info/maps/848594cad4554eb9a1965e744d707494/about
-Oregon Fire Perimeter History - You have to specify the year, when viewing, but has the Bootleg fire perimeter.
+Mayfield, Matthew. "2021 Bootleg Fire Perimeter & Burn Severity." _ArcGIS_, https://www.arcgis.com/home/item.html?id=41c248d3113344d78a680ab02f3e98ce.
 
-https://www.oregonlive.com/data/2021/07/see-how-massive-bootleg-fire-grew-into-nations-largest-day-by-day.html
-PAYWALL - Looks like there might be an animation on the bootleg fire spreading… at least it looks like it on google images. There is a save of it on the internet archive but it's broken…
-https://archive.ph/2ewrd
-Secret link for viewing
-Sources: National Interagency Fire Center, NASA, NOAA, Oregon Department of Forestry
-Map: Mark Friesen/staff
+"Oregon Fire Perimeter History." _Oregon Explorer_, https://hub.oregonexplorer.info/maps/848594cad4554eb9a1965e744d707494/about.
 
-Lahaina Fire -
+"Bootleg Perimeter Now 200 Miles, 281 Thousand Acres Burned." _That Oregon Life_, 21 July 2021, https://thatoregonlife.com/2021/07/bootleg-perimeter-now-200-miles-281-thousand-acres-burned/.
 
-https://ag.hawaii.gov/wp-content/uploads/2024/04/FSRI-Lahaina-Fire-Timeline-Phase-1-Report-Press-Conference-240417.pdf
-Lahaina Fire Comprehensive Report & Timeline - I think this was done by Underwriters Laboratories, for the State of Hawaii. Discusses pre fire conditions, and fire progression.
+**Lahaina Fire** -
 
-https://riskfrontiers.com/insights/the-august-9-2023-hawaii-wildfires/
-Risk Assessment of the Lahaina Fire - Images are low res, very very low resolution. But it exists!
-I think this is done by this risk assessment company?
+Fazio, Marie. "Hawaii Wildfires: What to Know About the Lahaina Fire." _The New York Times_, 15 Aug. 2023, https://www.nytimes.com/2023/08/15/us/hawaii-maui-lahaina-fire.html.
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2023%2F08%2F10%2Fus%2Fmaui-wildfire-map-hawaii.html&psig=AOvVaw3ETwKQWZPy0WZMIYtqLpmt&ust=1754691906732000&source=images&cd=vfe&opi=89978449&ved=0CBkQjhxqFwoTCNiYyfDe-Y4DFQAAAAAdAAAAABBj
-Lahaina Fire Damages - NYT has an article on the damages done, some of them seem nice?
-Could be used…
+"Fire Extents Map." _Maui Recovers_, https://www.mauirecovers.org/maps/fire-extent.
 
-https://www.nytimes.com/2023/08/15/us/hawaii-maui-lahaina-fire.html
-Another NYT Article
+"Maui Wildfire Map: Tracking the Lahaina Fire." _The New York Times_, 10 Aug. 2023, https://www.nytimes.com/interactive/2023/08/10/us/maui-wildfire-map-hawaii.html.
 
-https://www.mauirecovers.org/maps/fire-extent
-Fire Extents - From Maui Recovers has a map of old fires in Maui
+Risk Frontiers. "The August 9, 2023 Hawaii Wildfires." _Risk Frontiers_, 2023, https://riskfrontiers.com/insights/the-august-9-2023-hawaii-wildfires/.
 
-Palisades Fire -
-https://gis.data.ca.gov/search
-P1
-gis.data.ca.gov/datasets/CALFIRE-Forestry::wfigs-2025-wildfire-perimeters/explore?location=34.074124%2C-118.538600%2C11.88
-P2
-WFIGS - 2025 Wildfire Perimeters - Data hosted on the California State Geoportal. Shows palisades perimeter
+Underwriters Laboratories. "FSRI Lahaina Fire Timeline Phase 1 Report." _State of Hawaii_, 17 Apr. 2024, https://ag.hawaii.gov/wp-content/uploads/2024/04/FSRI-Lahaina-Fire-Timeline-Phase-1-Report-Press-Conference-240417.pdf.
 
-https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about
-Palisades And Eaton Dissolved Fire Perimeters (2025) - I think this is from the county of Los Angeles? It’s a map of fire perimeters specifically from the palisades and eaton area
+**Palisades Fire** -
 
-https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire
-Cal Fire Incident Map - Shows the fire perimeter. Hard to see…
+"WFIGS – 2025 Wildfire Perimeters." _California State Geoportal_, https://gis.data.ca.gov/datasets/CALFIRE-Forestry::wfigs-2025-wildfire-perimeters/explore.
 
-https://www.sfchronicle.com/projects/california-fire-map/palisades-fire-2025
-Palisades Fire over time - Shows fire spread!!!!
+CAL FIRE. "Palisades Fire Incident Map." _CAL FIRE_, 7 Jan. 2025, https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire.
 
-https://re-ngfs.ssec.wisc.edu/
-This one takes setup, but also shows spread. Make sure you zoom into Palisades Region
-Absolute Tab, set time to January 7, 2025 - January 31, 2025
-Collection NGFS, Fire Detection - WFIGS
-Can Adjust the time to make it slower or faster
+Los Angeles County. "Palisades and Eaton Dissolved Fire Perimeters (2025)." _ArcGIS Hub_, https://hub.arcgis.com/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about.
 
-Cram Fire -
+"Palisades Fire Over Time." _San Francisco Chronicle_, 2025, https://www.sfchronicle.com/projects/california-fire-map/palisades-fire-2025.
 
-https://re-ngfs.ssec.wisc.edu/
-This one takes setup, but also shows spread. Make sure you zoom into region, Central Oregon
-Absolute Tab, set time to July 13, 2025 - July 22, 2025
-Collection NGFS, Fire Detection - WFIGS
-Can Adjust the time to make it slower or faster
+**Cram Fire** -
 
-https://osfminfo.org/crews-making-progress-on-cram-fire-mapped-at-95769-acres/
-Oregon State Fire Marshal Incident Blog, July 19.
-Has a decent, yet small image
+Central Oregon Fire Info. "Cram Fire Morning Update – Wednesday, July 23, 2025." _Central Oregon Fire Info_, 23 July 2025, https://centraloregonfire.org/2025/07/23/cram-fire-morning-update-wednesday-july-23-2025/.
 
-https://centraloregonfire.org/2025/07/23/cram-fire-morning-update-wednesday-july-23-2025/
-Central Oregon Fire Info, July 23rd
-77% Containment
+"Cram Fire Grows to 94,293 Acres as Windy Conditions Hamper Firefighting Efforts." _KCBY 11 News_, 18 July 2025, https://kcby.com/news/local/cram-fire-grows-to-94293-acres-as-windy-conditions-hamper-firefighting-efforts-jefferson-county-wasco-northwest-interagency-coordination-madras-sheriffs-office.
 
-https://kcby.com/news/local/cram-fire-grows-to-94293-acres-as-windy-conditions-hamper-firefighting-efforts-jefferson-county-wasco-northwest-interagency-coordination-madras-sheriffs-office
-Local News KCBY 11, July 18th
-Uncontained at the time?
+"Cram Fire Incident Information." _InciWeb_, https://inciweb.wildfire.gov/incident-information/orprd-cram-fire.
 
-https://inciweb.wildfire.gov/incident-information/orprd-cram-fire
-Might have to back out and then zoom into the area to get a better, full picture. But also has resources.
+"Crews Making Progress on Cram Fire Mapped at 95,769 Acres." _Oregon State Fire Marshal_, 19 July 2025, https://osfminfo.org/crews-making-progress-on-cram-fire-mapped-at-95769-acres/.
 
-General 2023 Canada Fires -
+**General 2023 Canada Fires** -
 
-The best I can do here is the wikipedia, The have map data… Maybe we can visualize it ourselves?
-https://commons.wikimedia.org/wiki/Data:2023_Canadian_wildfires_-_season_to_date.map
-
-I feel like this fire is too broad for images, it’s an entire country…
+"2023 Canadian Wildfires – Season to Date Map." _Wikimedia Commons_, https://commons.wikimedia.org/wiki/Data:2023_Canadian_wildfires_-_season_to_date.map.
