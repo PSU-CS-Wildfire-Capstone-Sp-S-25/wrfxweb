@@ -1115,11 +1115,15 @@ body {
 }
 
 #media-content {
+    flex: 1;
     padding: 15px;
-    overflow: auto;
-    max-height: calc(30vh - 60px);
-    max-width: calc(30vw - 60px);
-    transition: opacity 0.3s ease;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: calc(
+        40vh - 200px
+    ); /* Adjust based on header/navigation height */
 }
 
 #image-navigation {
@@ -1130,6 +1134,14 @@ body {
     padding: 10px 15px;
     border-top: 1px solid #ddd;
     background: #f9f9f9;
+}
+
+#media-content img {
+    padding: 15px;
+    overflow: auto;
+    max-height: calc(30vh - 60px);
+    max-width: calc(30vw - 60px);
+    transition: opacity 0.3s ease;
 }
 
 .nav-button {
